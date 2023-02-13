@@ -19,9 +19,9 @@ export default function Home() {
         <img src="https://www.meltdigital.com/wp-content/uploads/2021/07/logo-white.svg" className="logo"/>
         <h1>React / SEO demo application</h1>
         <Link href="/" className="nav-link">Home</Link>
-        <Link href="/page1" className="nav-link">Page 1</Link>
-        <Link href="/page2" className="nav-link">Page 2</Link>
-        <Link href="/page3" className="nav-link">Page 3</Link>
+        <Link href="/page1.html" className="nav-link">Page 1</Link>
+        <Link href="/page2.html" className="nav-link">Page 2</Link>
+        <Link href="/page3.html" className="nav-link">Page 3</Link>
       </main>
     </>
   )

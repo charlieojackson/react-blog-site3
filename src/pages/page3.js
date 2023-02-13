@@ -14,9 +14,9 @@ export default function Page3() {
           <img src="https://www.meltdigital.com/wp-content/uploads/2021/07/logo-white.svg" className="logo"/>
           <h1>Page 3</h1>
           <Link href="/" className="nav-link">Home</Link>
-          <Link href="/page1" className="nav-link">Page 1</Link>
-          <Link href="/page2" className="nav-link">Page 2</Link>
-          <Link href="/page3" className="nav-link">Page 3</Link>
+          <Link href="/page1.html" className="nav-link">Page 1</Link>
+          <Link href="/page2.html" className="nav-link">Page 2</Link>
+          <Link href="/page3.html" className="nav-link">Page 3</Link>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis viverra mauris nec sagittis. Phasellus interdum tortor a efficitur fermentum. Vivamus lorem augue, mollis eu lobortis sit amet, interdum vitae dui. In eleifend, nulla sit amet fringilla interdum, odio mi sodales enim, vel sollicitudin erat lectus eu neque. Proin eget consequat odio. Pellentesque vestibulum auctor odio, id ultricies dolor sagittis ut. Sed non leo ac nulla placerat sagittis. Curabitur venenatis molestie est a suscipit.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis viverra mauris nec sagittis. Phasellus interdum tortor a efficitur fermentum. Vivamus lorem augue, mollis eu lobortis sit amet, interdum vitae dui. In eleifend, nulla sit amet fringilla interdum, odio mi sodales enim, vel sollicitudin erat lectus eu neque. Proin eget consequat odio. Pellentesque vestibulum auctor odio, id ultricies dolor sagittis ut. Sed non leo ac nulla placerat sagittis. Curabitur venenatis molestie est a suscipit.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis viverra mauris nec sagittis. Phasellus interdum tortor a efficitur fermentum. Vivamus lorem augue, mollis eu lobortis sit amet, interdum vitae dui. In eleifend, nulla sit amet fringilla interdum, odio mi sodales enim, vel sollicitudin erat lectus eu neque. Proin eget consequat odio. Pellentesque vestibulum auctor odio, id ultricies dolor sagittis ut. Sed non leo ac nulla placerat sagittis. Curabitur venenatis molestie est a suscipit.</p>
